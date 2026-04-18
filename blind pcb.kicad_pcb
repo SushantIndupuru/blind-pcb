@@ -2522,18 +2522,7 @@
 			(uuid "5bede945-6ea6-4f7b-a8d0-8544f75eac56")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_Slide-03_Wuerth-WS-SLTV_10x2.5x6.4_P2.54mm.step"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
-		(model "/Users/sushant/Downloads/slide-switch-slw-116641-3a-ra-s-d-1.snapshot.3/SLW-116641-3A-RA-S-D.step"
+		(model "${KICAD_USER_3DMODEL_DIR}/SLW-116641-3A-RA-S-D.step"
 			(offset
 				(xyz 0 0 5.5)
 			)
@@ -3446,18 +3435,7 @@
 			(uuid "60f492e9-243f-4dc4-b66e-8a1cc864c918")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_Type059_RT06302HBWC_1x02_P3.50mm_Horizontal.step"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
-		(model "/Users/sushant/Downloads/2445P Screw Terminal Block- 2 Pin, 3.5mm Pitch, Side Entry/2445P Screw Terminal Block- 2 Pin, 3.5mm Pitch, Side Entry.STEP"
+		(model "${KICAD_USER_3DMODEL_DIR}/2445P Screw Terminal Block- 2 Pin, 3.5mm Pitch, Side Entry.STEP"
 			(offset
 				(xyz 1.75 0 0)
 			)
@@ -3784,18 +3762,7 @@
 			(uuid "40cb9b77-efed-41a9-a17e-f60e19fe2274")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_Type059_RT06302HBWC_1x02_P3.50mm_Horizontal.step"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
-		(model "/Users/sushant/Downloads/2445P Screw Terminal Block- 2 Pin, 3.5mm Pitch, Side Entry/2445P Screw Terminal Block- 2 Pin, 3.5mm Pitch, Side Entry.STEP"
+		(model "${KICAD_USER_3DMODEL_DIR}/2445P Screw Terminal Block- 2 Pin, 3.5mm Pitch, Side Entry.STEP"
 			(offset
 				(xyz 1.75 0 0)
 			)
@@ -4121,18 +4088,7 @@
 			(uuid "384464a7-5e19-411e-b781-40dbf1511f71")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_Type059_RT06302HBWC_1x02_P3.50mm_Horizontal.step"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
-		(model "/Users/sushant/Downloads/2445P Screw Terminal Block- 2 Pin, 3.5mm Pitch, Side Entry/2445P Screw Terminal Block- 2 Pin, 3.5mm Pitch, Side Entry.STEP"
+		(model "${KICAD_USER_3DMODEL_DIR}/2445P Screw Terminal Block- 2 Pin, 3.5mm Pitch, Side Entry.STEP"
 			(offset
 				(xyz 1.75 0 0)
 			)
@@ -6201,18 +6157,7 @@
 			(uuid "544807a8-4f73-4a8d-8957-3aa467c0909d")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_Type059_RT06302HBWC_1x02_P3.50mm_Horizontal.step"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
-		(model "/Users/sushant/Downloads/2445P Screw Terminal Block- 2 Pin, 3.5mm Pitch, Side Entry/2445P Screw Terminal Block- 2 Pin, 3.5mm Pitch, Side Entry.STEP"
+		(model "${KICAD_USER_3DMODEL_DIR}/2445P Screw Terminal Block- 2 Pin, 3.5mm Pitch, Side Entry.STEP"
 			(offset
 				(xyz 1.75 0 0)
 			)
@@ -6390,7 +6335,7 @@
 			(uuid "89d62eb7-04de-4268-88dc-3792c4763195")
 		)
 		(embedded_fonts no)
-		(model "/Users/sushant/Downloads/mt3608-3.snapshot.3/MT3608.step"
+		(model "${KICAD_USER_3DMODEL_DIR}/MT3608.step"
 			(offset
 				(xyz 0 0 -26)
 			)
@@ -6946,7 +6891,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "/Users/sushant/Downloads/hc-sr04-13.snapshot.2/hc-sr04.step"
+		(model "${KICAD_USER_3DMODEL_DIR}/hc-sr04.step"
 			(offset
 				(xyz -4 -3.75 10)
 			)
@@ -8106,7 +8051,7 @@
 				(xyz -0 -0 -0)
 			)
 		)
-		(model "/Users/sushant/Downloads/hc-sr04-13.snapshot.2/hc-sr04.step"
+		(model "${KICAD_USER_3DMODEL_DIR}/hc-sr04.step"
 			(offset
 				(xyz -4 -3.75 10)
 			)
@@ -8655,18 +8600,7 @@
 			(uuid "e91f5b04-5560-4651-8d92-8b5389da99eb")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_Type059_RT06302HBWC_1x02_P3.50mm_Horizontal.step"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
-		(model "/Users/sushant/Downloads/2445P Screw Terminal Block- 2 Pin, 3.5mm Pitch, Side Entry/2445P Screw Terminal Block- 2 Pin, 3.5mm Pitch, Side Entry.STEP"
+		(model "${KICAD_USER_3DMODEL_DIR}/2445P Screw Terminal Block- 2 Pin, 3.5mm Pitch, Side Entry.STEP"
 			(offset
 				(xyz 1.75 0 0)
 			)
@@ -9417,7 +9351,7 @@
 			(uuid "3af30aed-3c6e-4552-b4b9-553162169fa8")
 		)
 		(embedded_fonts no)
-		(model "/Users/sushant/Downloads/arduino-nano--1.snapshot.4/arduino nano.STEP"
+		(model "${KICAD_USER_3DMODEL_DIR}/arduino nano.STEP"
 			(offset
 				(xyz 0 0 2.5)
 			)
@@ -9924,14 +9858,6 @@
 		(uuid "ecd36dca-4ae3-465b-9680-365722b0e90b")
 	)
 	(segment
-		(start 178.25 113.993726)
-		(end 178.25 96.08)
-		(width 0.508)
-		(layer "F.Cu")
-		(net "Net-(1-OUT+)")
-		(uuid "006f487e-6581-4de5-b8f3-a723ee29962c")
-	)
-	(segment
 		(start 159.608963 82.651136)
 		(end 158 81.042173)
 		(width 0.254)
@@ -9980,6 +9906,14 @@
 		(uuid "33ee0e0e-b0f0-4f3f-bfe2-03864212ab44")
 	)
 	(segment
+		(start 170 123.990302)
+		(end 172.783963 123.990302)
+		(width 0.508)
+		(layer "F.Cu")
+		(net "Net-(1-OUT+)")
+		(uuid "34238117-0b3a-4ab4-b2d6-98b91632757e")
+	)
+	(segment
 		(start 150.801163 117.849973)
 		(end 150.801163 120.644262)
 		(width 0.508)
@@ -9996,28 +9930,12 @@
 		(uuid "3c899cc4-1212-4154-87ff-7f8a8f97fcca")
 	)
 	(segment
-		(start 170 123.990302)
-		(end 172.259698 123.990302)
-		(width 0.508)
-		(layer "F.Cu")
-		(net "Net-(1-OUT+)")
-		(uuid "4704a302-03f7-4d93-951e-dac785dc39f6")
-	)
-	(segment
 		(start 158 81.042173)
 		(end 158 77)
 		(width 0.254)
 		(layer "F.Cu")
 		(net "Net-(1-OUT+)")
 		(uuid "54da2875-2629-496d-847c-15bb2ea3953c")
-	)
-	(segment
-		(start 178.25 96.08)
-		(end 171.695 89.525)
-		(width 0.508)
-		(layer "F.Cu")
-		(net "Net-(1-OUT+)")
-		(uuid "632a34a6-42b5-45af-b403-6e3e6bddc296")
 	)
 	(segment
 		(start 156 82.549875)
@@ -10044,12 +9962,28 @@
 		(uuid "6a803679-1066-4023-81df-bb0dd684a63f")
 	)
 	(segment
+		(start 172.783963 123.990302)
+		(end 173.4 122.863661)
+		(width 0.508)
+		(layer "F.Cu")
+		(net "Net-(1-OUT+)")
+		(uuid "713c3fee-a1b0-415c-8b84-added2b0529f")
+	)
+	(segment
 		(start 150.415654 87)
 		(end 149.217926 85.802272)
 		(width 0.508)
 		(layer "F.Cu")
 		(net "Net-(1-OUT+)")
 		(uuid "71d6170d-107f-41d8-aee0-9fbe609c3023")
+	)
+	(segment
+		(start 173.4 122.863661)
+		(end 173.4 122.85)
+		(width 0.508)
+		(layer "F.Cu")
+		(net "Net-(1-OUT+)")
+		(uuid "7a2c0520-be27-495c-813b-a0b79f820f00")
 	)
 	(segment
 		(start 161.458502 123.990302)
@@ -10076,6 +10010,14 @@
 		(uuid "8b738e41-a0d8-4b56-8b9a-e7c7fce8c982")
 	)
 	(segment
+		(start 173.4 122.85)
+		(end 173.416482 122.833518)
+		(width 0.508)
+		(layer "F.Cu")
+		(net "Net-(1-OUT+)")
+		(uuid "91216026-c339-4e78-8d33-d478f2522d23")
+	)
+	(segment
 		(start 161.309315 121.232858)
 		(end 161.309315 124.139489)
 		(width 0.254)
@@ -10090,22 +10032,6 @@
 		(layer "F.Cu")
 		(net "Net-(1-OUT+)")
 		(uuid "a85a4fbc-623a-4b46-a3e7-9100cd5c6540")
-	)
-	(segment
-		(start 172.259698 123.990302)
-		(end 173.416482 122.833518)
-		(width 0.508)
-		(layer "F.Cu")
-		(net "Net-(1-OUT+)")
-		(uuid "aa10ccbb-24c0-4c5e-a504-fd90146881bc")
-	)
-	(segment
-		(start 173.416482 122.833518)
-		(end 178.25 113.993726)
-		(width 0.508)
-		(layer "F.Cu")
-		(net "Net-(1-OUT+)")
-		(uuid "ad5c60ba-21d0-46ba-9b2a-6beba502e8ae")
 	)
 	(segment
 		(start 155.813921 79.186079)
@@ -10130,6 +10056,30 @@
 		(layer "F.Cu")
 		(net "Net-(1-OUT+)")
 		(uuid "c4363752-e163-40f0-953f-7e730c3293eb")
+	)
+	(segment
+		(start 178.25 113.993726)
+		(end 178.25 96.08)
+		(width 0.508)
+		(layer "F.Cu")
+		(net "Net-(1-OUT+)")
+		(uuid "cc481eb7-9c79-409c-b2ee-9684922f8171")
+	)
+	(segment
+		(start 178.25 96.08)
+		(end 171.695 89.525)
+		(width 0.508)
+		(layer "F.Cu")
+		(net "Net-(1-OUT+)")
+		(uuid "f57bfc25-eb22-44db-90d7-34fb61a5b180")
+	)
+	(segment
+		(start 173.416482 122.833518)
+		(end 178.25 113.993726)
+		(width 0.508)
+		(layer "F.Cu")
+		(net "Net-(1-OUT+)")
+		(uuid "f9d9083d-9258-4e6f-8f2c-f36107656bec")
 	)
 	(segment
 		(start 170 123.990302)
