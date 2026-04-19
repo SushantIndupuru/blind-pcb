@@ -3129,7 +3129,7 @@
 		(property "Reference" "J1"
 			(at 1.779543 -1.914426 19)
 			(layer "F.SilkS")
-			(uuid "6690cb13-8cb6-4516-8cff-adeec39aa69c")
+			(uuid "cd4573d2-540b-4abd-b282-14f06574160f")
 			(effects
 				(font
 					(size 1 1)
@@ -3140,7 +3140,7 @@
 		(property "Value" "Screw_Terminal_01x02"
 			(at 1.75 4.82 19)
 			(layer "F.Fab")
-			(uuid "3a568485-873d-4a24-bda6-2875c86e1c4f")
+			(uuid "583b9a15-58f0-4e8e-8d28-2dbaa1466d0d")
 			(effects
 				(font
 					(size 1 1)
@@ -3152,7 +3152,7 @@
 			(at 0 0 19)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f2ebab78-4d9a-4467-b726-ee619a4da6d4")
+			(uuid "3372057d-5335-4236-8317-19773de4daa1")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3163,7 +3163,7 @@
 			(at 0 0 19)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "afe322ce-f49e-4c65-bb36-6b06c943f90d")
+			(uuid "209c85e9-d051-4683-a682-8eb80da0163c")
 			(effects
 				(font
 					(size 1.27 1.27)
